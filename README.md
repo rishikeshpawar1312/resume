@@ -1,2 +1,2 @@
-# reume
+# resume
 my resume (demo)
